@@ -1,3 +1,4 @@
 Book Analysis
 
-A basic program that reads from a sample text file, and outputs the most common words, longest words, and shortest lines
+A basic program that reads from a sample text file, and outputs the most common words, longest words, and shortest lines.
+It Utilizes multithreading to read through the supplied text more quickly.
